@@ -1,0 +1,5 @@
+oui , 
+http corresponds bien à un protocole d'appel de procédures distantes
+en mode sans état ce dernier se caractérise par les appels successifs
+ d’une même procédure s'exécutent sans liens entre eux
+ 

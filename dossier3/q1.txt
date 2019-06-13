@@ -1,0 +1,9 @@
+Avantages :
+ facilite la communication et évite les problèmes de proxys et pare-feu par rapport à des technologies plus anciennes.
+
+Inconvenients : 
+La mise en œuvre réelle est complexe, les normes volumineuses et difficiles à
+véritablement maitriser
+
+HTTP est utilisé uniquement comme moyen de transport. Les seuls messages utilisés de
+HTTP sont GET et POST
